@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "239714143159",
+    "project_id": "cowboyrunner-7c57a",
+    "storage_bucket": "cowboyrunner-7c57a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239714143159:android:714765d86f5c18bf9b7632",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FirstRunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239714143159-pm6at9eob2roe410tck6ur7frkpbnnk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.FirstRunner",
+            "certificate_hash": "dba9b02582cf5d8af513b83b885ed27db1aad37b"
+          }
+        },
+        {
+          "client_id": "239714143159-kj1p05pg5pm01gpq60q5m97lqdhtb6aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_wWNrvoirn6sxZhD_hz43ddrr68aGLXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239714143159-kj1p05pg5pm01gpq60q5m97lqdhtb6aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

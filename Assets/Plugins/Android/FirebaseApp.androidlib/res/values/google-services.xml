@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">239714143159</string>
+  <string name="google_storage_bucket" translatable="false">cowboyrunner-7c57a.firebasestorage.app</string>
+  <string name="project_id" translatable="false">cowboyrunner-7c57a</string>
+  <string name="google_api_key" translatable="false">AIzaSyA_wWNrvoirn6sxZhD_hz43ddrr68aGLXA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA_wWNrvoirn6sxZhD_hz43ddrr68aGLXA</string>
+  <string name="google_app_id" translatable="false">1:239714143159:android:714765d86f5c18bf9b7632</string>
+  <string name="default_android_client_id" translatable="false">239714143159-pm6at9eob2roe410tck6ur7frkpbnnk0.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">239714143159-kj1p05pg5pm01gpq60q5m97lqdhtb6aa.apps.googleusercontent.com</string>
+</resources>
